@@ -18,4 +18,4 @@ dva 首先是一个基于 redux 和 redux-saga 的数据流方案，然后为了
 11. dva Model API
 12. dva redux-actions
 
-## 视频地址
+## 视频地址链接: https://pan.baidu.com/s/1yxaLhNMDqKJiiIKNl0z3iQ 提取码: bvh1 
